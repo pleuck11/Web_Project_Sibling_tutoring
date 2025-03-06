@@ -17,7 +17,7 @@ export interface BlocksSpoiler extends Struct.ComponentSchema {
   };
   attributes: {
     content: Schema.Attribute.Text;
-    spoiler: Schema.Attribute.String;
+    title: Schema.Attribute.String;
   };
 }
 

@@ -4,7 +4,7 @@
   "info": {
     "singularName": "team-member",
     "pluralName": "team-members",
-    "displayName": "Team Member",
+    "displayName": "Team Members",
     "description": ""
   },
   "options": {
@@ -29,7 +29,8 @@
       ]
     },
     "slug": {
-      "type": "uid"
+      "type": "uid",
+      "targetField": "name"
     },
     "blocks": {
       "type": "dynamiczone",

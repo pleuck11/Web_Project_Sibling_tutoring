@@ -5,7 +5,7 @@
   },
   "options": {},
   "attributes": {
-    "spoiler": {
+    "title": {
       "type": "string"
     },
     "content": {

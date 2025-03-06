@@ -35,27 +35,27 @@ body {
 }
 
 .richtext h1 {
-  @apply text-4xl mb-6 text-gray-900 dark:text-gray-100;
+  @apply text-4xl mb-6 text-gray-900 
 }
 
 .richtext h2 {
-  @apply text-3xl mb-4 text-gray-800 dark:text-gray-200;
+  @apply text-3xl mb-4 text-gray-800 
 }
 
 .richtext h3 {
-  @apply text-2xl mb-3 text-gray-700 dark:text-gray-300;
+  @apply text-2xl mb-3 text-gray-700 
 }
 
 .richtext h4 {
-  @apply text-xl mb-2 text-gray-600 dark:text-gray-400;
+  @apply text-xl mb-2 text-gray-600 
 }
 
 .richtext h5 {
-  @apply text-lg mb-2 text-gray-600 dark:text-gray-400;
+  @apply text-lg mb-2 text-gray-600 
 }
 
 .richtext h6 {
-  @apply text-base mb-2 text-gray-600 dark:text-gray-400;
+  @apply text-base mb-2 text-gray-600 
 }
 
 .richtext p {
@@ -83,4 +83,3 @@ body {
   @apply list-decimal;
 }
 
-/* Rich Text Block End */
